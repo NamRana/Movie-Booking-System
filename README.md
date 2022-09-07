@@ -109,44 +109,6 @@ Cinema + is currently extended with the following plugins. Instructions on how t
 | react-slick | [plugins/react-slick/README.md](https://github.com/akiran/react-slick) |
 | redux | [plugins/redux/README.md](https://github.com/reduxjs/redux)|
 
-### Todos
-
- - Add Light Mode / More themes
 
 
-
-# Screenshots! 
-
-Movie Page
-<img src="https://github.com/georgesimos/readme-assets/blob/master/cinema-plus/movie.png" />
-
-<details>
-  <summary>More Screenshots</summary>
-  Booking Page
-  <img src="https://github.com/georgesimos/readme-assets/blob/master/cinema-plus/booking.png" />
-
-  Booking Invitations
-  <img src="https://github.com/georgesimos/readme-assets/blob/master/cinema-plus/invitation.png" />
-
-  Guest Dashboard Page
-  <img src="https://github.com/georgesimos/readme-assets/blob/master/cinema-plus/guest-dashboard.png" />
-
-  My Account Page
-  <img src="https://github.com/georgesimos/readme-assets/blob/master/cinema-plus/my-account.png" />
-
-  Admin Home Page
-  <img src="https://github.com/georgesimos/readme-assets/blob/master/cinema-plus/admin-dashboard.png" />
-
-  Admin Cinema Page
-  <img src="https://github.com/georgesimos/readme-assets/blob/master/cinema-plus/admin-cinemas.png" />
-
-  Admin Movie Page
-  <img src="https://github.com/georgesimos/readme-assets/blob/master/cinema-plus/admin-movies.png" />
-
-  Admin Reservation Page
-  <img src="https://github.com/georgesimos/readme-assets/blob/master/cinema-plus/reservations.png" />
-
-  Admin Reservation Calendar
-  <img src="https://github.com/georgesimos/readme-assets/blob/master/cinema-plus/calendar.png" />
-</details>
 
