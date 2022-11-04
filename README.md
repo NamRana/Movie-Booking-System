@@ -1,5 +1,5 @@
 
-Cinema + is an online Movie Ticket Booking web app with MERN Stack.
+Movie-Booking-System is an online Movie Ticket Booking web app with MERN Stack.
 
   - Online Booking System
   - Admin Dashboard
@@ -25,7 +25,7 @@ You can also:
   - Export QR Code pass as PDF
 
 ### Tech
-Cinema + uses a number of open source projects to work properly:
+Movie-Booking-System uses a number of open source projects to work properly:
 * [MongoDB](https://www.mongodb.com/) - A document-oriented, No-SQL database used to store the application data.
 * [ExpressJS](https://expressjs.com/) - fast node.js network app framework.
 * [ReactJS](https://reactjs.org/) - A JavaScript library for building user interfaces.
@@ -34,7 +34,7 @@ Cinema + uses a number of open source projects to work properly:
 
 ### Installation
 
-Cinema + requires [Node.js](https://nodejs.org/)  to run.
+Movie-Booking-System requires [Node.js](https://nodejs.org/)  to run.
 
 Set environment variables 
 
